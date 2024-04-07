@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386657770245",
+    "project_id": "cloudstore-8c770",
+    "storage_bucket": "cloudstore-8c770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386657770245:android:7cdea6b55681a4e47c356c",
+        "android_client_info": {
+          "package_name": "com.example.interview_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAxraNuJzIjijBr1bvTbEGHu2NLUv0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
